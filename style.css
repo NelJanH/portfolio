@@ -661,3 +661,10 @@ footer {
     .btn { width: 100%; }
     .contact-panel { padding: 2rem; }
 }
+
+/* ===== VIDEO EDITING PORTFOLIO BUTTON ===== */
+.timeline-content .btn {
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    padding: 10px 18px;
+}
